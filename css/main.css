@@ -1053,7 +1053,7 @@ transition: 0.4s;
     right: 0;
     height: 186px;
     width: 204px;
-    background-image: url(/imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     background-repeat: no-repeat;
 }
 .latest-event .container .dots-2 {
@@ -1062,7 +1062,7 @@ transition: 0.4s;
     left: 0;
     height: 186px;
     width: 204px;
-    background-image: url(/imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     background-repeat: no-repeat;
 }
 .latest-event .container .latest-event-content img {
@@ -1181,7 +1181,7 @@ transition: 0.4s;
 }
 .pricing-plans .dots {
     position: absolute;
-    background-image: url(/imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     right: 0;
     top: 200px;
     height: 186px;
@@ -1190,7 +1190,7 @@ transition: 0.4s;
 }
 .pricing-plans .dots-2 {
     position: absolute;
-    background-image: url(/imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     left: 0;
     bottom: 200px;
     height: 186px;
@@ -1389,7 +1389,7 @@ transition: 0.4s;
 .stats {
     padding-top: 100px;
     padding-bottom: 100px;
-    background-image: url(/imgs/stats.jpg);
+    background-image: url(../imgs/stats.jpg);
     background-size: cover;
     min-height: 300px;
     position: relative;
